@@ -29,6 +29,8 @@ td {
 form {
   display: flex;
   gap: 5px;
+  justify-content: center;
+  flex: 1;
 }
 
 form td:last-child {
@@ -38,4 +40,10 @@ form td:last-child {
 
 form * {
   font-size: 28px;
+}
+.forms {
+    background-color: lightgreen;
+border: 2px solid rgb(19, 1, 1);
+      padding-bottom: 80px;
+  padding-top: 40px;
 }

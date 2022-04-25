@@ -43,15 +43,15 @@ const EmployeeList = () => {
 return (
   <div>
    
-   <h2>Add a New Employee</h2>
-    <form onSubmit={handleAddFormSubmit}>
-      <input type="text" name="firstName" required="required" placeholder="Enter First Name" onChange={handleAddFormChange}/>
+        <h2>Add a New Employee</h2>
+        <form className='forms' onSubmit={handleAddFormSubmit}>
+            <input type="text" name="firstName" required="required" placeholder="Enter First Name" onChange={handleAddFormChange} />
       <input type="text" name="lastName" required="required" placeholder="Enter Last Name" onChange={handleAddFormChange}/>
         <input type="text" name="email" required="required" placeholder="Enter Email" onChange={handleAddFormChange}/>
       <input type="text" name="department" required="required" placeholder="Enter Department" onChange={handleAddFormChange}/>
       <input type="text" name="location" required="required" placeholder="Enter Location" onChange={handleAddFormChange}/>
         <button type='submmit'>
-     Add
+     Add New Employee
     </button>
     </form>
    <table>
