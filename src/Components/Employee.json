@@ -1,0 +1,72 @@
+[  
+     {
+        "firstName": "Betty",
+        "lastName": "Hayle",
+        "email": "betty@gmail.com",
+        "department": "Developer",
+        "location": "Ohio"
+    },
+    {
+        "firstName": "Sarah",
+        "lastName": "Cullen",
+        "email": "Sarah@gmail.com",
+        "department": "Instructor",
+        "location": "Colorado"
+    }, 
+    {
+        "firstName": "Sisay",
+        "lastName": "Areaya",
+        "email": "Sisay@gmail.com",
+        "department": "Developer",
+        "location": "Florida"
+    }, 
+    {
+        "firstName": "Ermias ",
+        "lastName": "Mahtemu ",
+        "email": "Mahtemu@gmail.com",
+        "department": "Developer",
+        "location": "Verginia"
+    },
+    {
+        "firstName": "Liam",
+        "lastName": "Oliver",
+        "email": "liam@gmail.com",
+        "department": "CyberSecurity",
+        "location": "New York"
+    } ,
+    {
+        "firstName": "Emma",
+        "lastName": "Elijah",
+        "email": "emma@gmail.com",
+        "department": "It Specialist",
+        "location": "Texas"
+    } ,
+    {
+        "firstName": "Ava",
+        "lastName": "Arada",
+        "email": "ava@gmail.com",
+        "department": "It Specialist",
+        "location": "Texas"
+    }, 
+     {
+        "firstName": "Abel",
+        "lastName": "Reda",
+        "email": "abel@gmail.com",
+        "department": "Developer",
+        "location": "Colorado"
+    },
+    {
+        "firstName": "Adugna",
+        "lastName": "Bekele",
+        "email": "adugna@gmail.com",
+        "department": "Instructor",
+        "location": "Maryland"
+    } ,
+    {
+        "firstName": "Tewedaj",
+        "lastName": "Alemu",
+        "email": "tewe@gmail.com",
+        "department": "Instructor",
+        "location": "Texas"
+    } 
+]
