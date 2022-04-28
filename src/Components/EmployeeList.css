@@ -39,7 +39,7 @@ form td:last-child {
 }
 
 form * {
-  font-size: 28px;
+  font-size: 20px;
 }
 .forms {
   background-color: lightgreen;
@@ -66,5 +66,5 @@ h2 {
 
 } 
 button{
-  background-color: darkgrey;
+  background-color: darkgray;
 }
