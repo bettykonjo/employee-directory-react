@@ -39,11 +39,32 @@ form td:last-child {
 }
 
 form * {
-  font-size: 28px;
+  font-size: 20px;
 }
 .forms {
-    background-color: lightgreen;
-border: 2px solid rgb(19, 1, 1);
-      padding-bottom: 80px;
+  background-color: lightgreen;
+  border: 2px solid rgb(19, 1, 1);
+  padding-bottom: 80px;
   padding-top: 40px;
+}
+h1 {
+  text-align: start;
+  color: green;
+}
+h2 {
+  text-align: start;
+}
+.search{
+  border-radius: 2px solid black;
+  text-align: start;
+  font-size: 20px;
+
+}
+ .search input{
+  width: 25%;
+  height: 25%;
+
+} 
+button{
+  background-color: darkgray;
 }
